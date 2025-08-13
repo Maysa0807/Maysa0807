@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maysa Leocadio (@Maysa0807)
 - 👩🏻‍🎓 Bachelor's degree in Systems Development 
 - 👀 Backend development enthusiast
-- ☕️ Currently learning Java(Spring Boot)/Angular/Nodejs
+- ☕️ Currently learning Java(Spring Boot)/Angular/React
 - 📫 How to reach me lmaysagomes@gmail.com
 
 <h4 align="center">“Nossos fracassos, às vezes, são mais frutíferos do que os êxitos.” – Henry Ford
