@@ -4,7 +4,7 @@
 - ☕️ Currently learning Java(Spring Boot)/Angular/React
 - 📫 How to reach me lmaysagomes@gmail.com
 
-# Perdi acesso a minha primeira conta do github, deixarei o link: https://github.com/Maysa87
+## Perdi acesso a minha primeira conta do github, deixarei o link: https://github.com/Maysa87
 
 <h4 align="center">“Nossos fracassos, às vezes, são mais frutíferos do que os êxitos.” – Henry Ford
 <h4/>
