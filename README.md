@@ -16,7 +16,7 @@
    
   ##
   
-  <h4 align="center">(Java | Spring Boot | React | Angular )
+  <h4 align="center">(Java | Spring | Golang | Angular )
 <h4/>
 
 <div align="center"> 
