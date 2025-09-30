@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maysa Leocadio (@Maysa0807)
-- 👩🏻‍🎓 Bachelor's degree in Systems Development 
+- 👩🏻‍🎓 Degree in Systems Development 
 - 👀 Backend development enthusiast
 - ☕️ Currently learning Java(Spring Boot)/Angular/React
 - 📫 How to reach me lmaysagomes@gmail.com
