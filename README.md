@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maysa Leocadio (@Maysa0807)
 - 👩🏻‍🎓 Degree in Systems Development 
 - 👀 Backend development enthusiast
-- ☕️ Currently learning Java(Spring Boot)/Angular/React
+- ☕️ Currently learning Java(Spring Boot)/Angular/React/Golang
 - 📫 How to reach me lmaysagomes@gmail.com
 - Perdi acesso a minha primeira conta do github, deixarei o link: https://github.com/Maysa87
 
